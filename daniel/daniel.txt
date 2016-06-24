@@ -1,16 +1,17 @@
 
 This is git class. Hope you guys are doing well.
-<<<<<<< HEAD
+
 this is vignesh
 
 this is git class. Hope you guys are doing well.
 this is ajay
 
 this is vignesh
-=======
+
 hi this is vijay
 this is git class. Hope you guys are doing well.
 this is ajay
 
 this is v2
->>>>>>> 48c7f80bdb2d525dee0f09d61ebc34db8f7dc8ed
+this is vignesh
+
