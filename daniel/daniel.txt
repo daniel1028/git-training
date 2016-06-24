@@ -2,24 +2,36 @@
 This is git class. Hope you guys are doing well.
 
 
+
 this is typed by narayanan
 
 this is git class. Hope you guys are doing well.
 this is ajay
 
 
+Ya Daniel. We are doing well. By Karthikeyan..
+
+
 this is vignesh
 
 this is git class. Hope you guys are doing well.
 this is ajay
 
 this is vignesh
+
 
 hi this is vijay
 this is git class. Hope you guys are doing well.
 this is ajay
 
 this is v2
+
+This is KArthikeyan
+
 this is vignesh
 
+<<<<<<< HEAD
 
+=======
+This is KArthikeyan
+>>>>>>> 383a5db4f7c82045d5decd3a9727f6047a475fc3
