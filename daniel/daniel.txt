@@ -1,7 +1,6 @@
 
 This is git class. Hope you guys are doing well.
 
-<<<<<<< HEAD
 This is Revathy
 
 
@@ -22,7 +21,7 @@ this is vignesh
 
 this is git class. Hope you guys are doing well.
 this is ajay
->>>>>>> 3613691881deaa30479e190583faad225585d7a4
+
 
 hi this is vijay
 this is git class. Hope you guys are doing well.
@@ -31,23 +30,18 @@ this is ajay
 this is v2
 Revathy
 
-<<<<<<< HEAD
+
 currently updated by revathy
-=======
+
 This is KArthikeyan
 
 this is vignesh
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
 This is KArthikeyan
->>>>>>> 383a5db4f7c82045d5decd3a9727f6047a475fc3
-=======
 
 This done by vidhya`
 
 This is KArthikeyan
 
->>>>>>> 3613691881deaa30479e190583faad225585d7a4
+Revathy
