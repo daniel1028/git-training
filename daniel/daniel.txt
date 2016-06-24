@@ -6,6 +6,15 @@ This is Revathy
 
 
 
+
+this is typed by narayanan
+
+this is git class. Hope you guys are doing well.
+this is ajay
+
+
+
+
 Ya Daniel. We are doing well. By Karthikeyan..
 
 
@@ -29,6 +38,13 @@ This is KArthikeyan
 
 this is vignesh
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+This is KArthikeyan
+>>>>>>> 383a5db4f7c82045d5decd3a9727f6047a475fc3
+=======
 
 This done by vidhya`
 
